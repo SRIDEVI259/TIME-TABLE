@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:mistyrose;
+}
+
+#up{
+    background-color: blue;
+    color: white;
+}
+
+table,th,td{
+    border:3px solid black;
+}
+
+.tab{
+    border-collapse: collapse;
+    padding: 10px;
+    /* margin: 10px; */
+    text-align: center;
+    margin: auto;
+    margin-top: 140px;
+}
+
+td,th{
+    padding: 10px;
+}
+
+.h{
+    background-color: red;
+    color: white;
+}
+
+.d{
+    background-color: chartreuse;
+    color: white;
+}
+
+.e{
+    background-color: bisque;
+}
+
+.m{
+    background-color: lightblue;
+}
+
+.sc{
+    background-color: lightpink;
+}
+
+.p{
+    background-color:darkkhaki ;
+}
+
+.l{
+    background-color: lemonchiffon;
+}
+
+.hin{
+    background-color: lavenderblush;
+}
+
+.t{
+    background-color:lightcoral;
+}
+
+.so{
+    background-color: lightcyan;
+}
+
+.lib{
+    background-color:lightgreen;
+}
+
+.sp{
+    background-color: lightsalmon;
+}
+
+.lb{
+    background-color:plum;
+}
+
+.day{
+    background-color: red;
+    color: white;
+    font-size: 18px;
+}
